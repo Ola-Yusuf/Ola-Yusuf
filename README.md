@@ -1,6 +1,6 @@
 # Hi,
 ### My name is OLATUNDE Yusuf O. :male_sign:
-Am working to switch career form academics to software development. 
+I'm working to switch career form academics to software development. 
 
 3 years of freelancing experience with series of project.
 
