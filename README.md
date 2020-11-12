@@ -1,10 +1,10 @@
 # Hi,
 ### My name is OLATUNDE Yusuf O. :male_sign:
-Am learning programming to switch career form academics to software development. 
+Am working to switch career form academics to software development. 
 
 3 years of freelancing experience with series of project.
 
-Proficient in Laravel and current open to work.
+Proficient in Laravel and currently open to work.
 
 ### Here are some of the things am working on 👋
 
