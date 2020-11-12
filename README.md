@@ -11,11 +11,12 @@
 - ⚡ Fun fact: ... footcoder
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=antonkomarev">
+    <img src="https://komarev.com/ghpvc/?username=Ola-Yusuf">
 </a>
-
+<!--
 🤔 Want to have views counter on your profile page? Take [GitHub Profile Views Counter] for the quick start.
 
 [GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
 
 ![](https://hit.yhype.halp.im/github/profile?user_id=1849174)
+-->
