@@ -8,7 +8,7 @@ Proficient in Laravel and currently open to work.
 
 ### Here are some of the things am working on 👋
 
-- 🔭 I’m currently working on ... Backend development
+- 🔭 I’m currently working on ... Backend development using Laravel
 - 🌱 I’m currently learning ... Node.js
 - 👯 I’m looking to collaborate on ... MERN stack
 - 🤔 I’m looking for help with ... UI/UX
