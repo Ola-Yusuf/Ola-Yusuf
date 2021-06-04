@@ -1,17 +1,16 @@
 # Hi,
 ### My name is OLATUNDE Yusuf O. :male_sign:
-I'm working to switch career form academics to software development. 
-
-Working as freelance developer to meet client needs.
+ 
+I have 4 years experience working as freelance developer.
 
 Proficient in Laravel and currently open to work.
 
 ### Here are some of the things am working on 👋
 
-- 🔭 I’m currently working on ... Backend development using Laravel
-- 🌱 I’m currently learning ... Node.js
-- 👯 I’m looking to collaborate on ... MERN stack
-- 🤔 I’m looking for help with ... UI/UX
+- 🔭 I am currently working on ... Backend development using Laravel
+- 🌱 I am expert using Laravel and React
+- 👯 I am learning ... Java (Spring, SpringBoot)
+- 🤔 I am looking for help with ... UI/UX
 - 💬 Ask me about ... Laravel, MySQL and other Backend Stuff
 - 📫 How to reach me: ... 
     1. :email: olatundeyusuf90@gmail.com
