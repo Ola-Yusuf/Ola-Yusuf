@@ -7,7 +7,7 @@ Proficient in Laravel and currently open to work.
 
 ### Here are some of the things am working on 👋
 
-- 🔭 I work with on Laravel and blade template for fullstack project
+- 🔭 I work with Laravel and blade template for fullstack project
 - 🌱 I am expert using Laravel and React
 - 👯 I am learning ... Java (Spring, SpringBoot)
 - 🤔 I am looking for help with ... UI/UX
