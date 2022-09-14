@@ -15,7 +15,7 @@ Proficient in Laravel and currently open to work.
 - 📫 How to reach me: ... 
     1. :email: olatundeyusuf90@gmail.com
     2. Twitter <a href="https://twitter.com/Olat_Yusuf_O">Olat-Yusuf_O</a>
-    3. Linkedin <a href="https://www.linkedin.com/in/yusuf-o-310815b4/">yusuf-olatunde-310815b4</a>
+    3. Linkedin <a href="https://www.linkedin.com/in/yusuf-o-310815b4/">yusuf-o-310815b4</a>
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... dailycoder
 
